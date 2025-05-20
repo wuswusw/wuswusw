@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 안녕하세요!  
+웹 퍼블리셔이자 프론트엔드 개발자를 지향하는 OOO입니다.
 
-<!--
-**wuswusw/wuswusw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+첫 직장에서 웹 퍼블리싱 업무를 시작하며 HTML/CSS의 구조적인 매력에 빠졌고,  
+이후 더 깊이 있는 웹 구현 역량을 갖추기 위해 프론트엔드 개발 공부를 꾸준히 이어오고 있습니다.  
+국비지원 과정을 수강하며 JavaScript와 React를 익혔고,  
+실제 프로젝트에서는 웹 기획부터 디자인, 프론트엔드, 백엔드까지 직접 구현해보며  
+전체적인 서비스 구조에 대한 이해도 함께 키워가고 있습니다.
 
-Here are some ideas to get you started:
+현재는 다음 목표로 **React 컴포넌트 구조화**, **데이터 흐름**,  
+**UX를 고려한 UI 설계**에 집중하며 공부 중입니다.  
+배우는 데 그치지 않고, 실제로 작동하는 서비스를 만들며 성장하는 개발자가 되고자 합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 기술 문서와 프로젝트는 아래 레포지토리에서 확인하실 수 있습니다.  
+함께 고민하고 성장하는 개발자가 되고 싶습니다. 감사합니다!
+
