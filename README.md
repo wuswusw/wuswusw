@@ -10,6 +10,7 @@
 저는 **바다는 비에 젖지 않는다.** 라는 문구를 가장 좋아합니다. <br/>
 작은 변화에 휩쓸리지 않고, 더 넓고 깊은 역량을 갖춘 개발자로 성장하겠습니다.
 
-📌 기술 문서와 프로젝트는 아래 레포지토리에서 확인하실 수 있습니다.  
-저의 노력과 정성이 담긴 기록들을 봐주셔서 감사합니다🙌
-
+🛠  Technical Skills
+JavaScript  TypeScript  HTML  CSS 
+Node.js  Python  Django  Flask 
+Git  GitHub  Markdown  Photoshop  Figma 
