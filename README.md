@@ -1,9 +1,14 @@
+<!--[![webProfile](https://img.shields.io/badge/Portfolio-Web-blue)](https://웹프로필링크)-->
+[![Notion](https://img.shields.io/badge/Portfolio-Notion-blue)](https://bit.ly/43yXGai)
+
+
+
 ### 👋 안녕하세요!  
 <h2>웹 퍼블리셔이자 프론트엔드 개발자 유지현입니다.😊</h2>
 
 ### 👩‍💻 About Me
 ✨ 코드가 실시간으로 화면에 구현되는 순간의 희열이 절 일으켜요.<br>
-🖼️ 정해진 디자인을 최대한 똑같이 구현해내는 데에 자신 있어요.<br/>
+🖼️ 디자인 시안을 똑같이 구현해내는 데에 자신 있어요.<br/>
 🌊 "바다는 비에 젖지 않는다"는 말처럼, 휩쓸리지 않고 단단해져가고 있어요.<br>
 😉 더 많은 저의 이야기가 궁금하다면 프로필을 함께 봐주세요. 
 <br>
