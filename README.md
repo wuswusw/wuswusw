@@ -1,5 +1,5 @@
 <!--[![webProfile](https://img.shields.io/badge/Portfolio-Web-blue)](https://웹프로필링크)-->
-[![Notion](https://img.shields.io/badge/Portfolio-Notion-blue)](https://bit.ly/43yXGai)
+[![Notion](https://img.shields.io/badge/Portfolio-Notion-blue)](https://real-ceder-20a.notion.site/Front-end-20dab42d50e78011a949ec16d53138b3)
 
 
 
